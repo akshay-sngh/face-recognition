@@ -24,3 +24,8 @@ Run **main.py**
 2. Run testCreator.py so that your faces are detected
 3. Run Trainer.py so new training data is saved on the folder 'recognizerData'
 4. Run main.py
+
+# Directory and files description
+  - dataSet: Unprocessed images
+  - recognizerData: YAML files used by OpenCV's recognizer
+  - FaceBase.db: Attendance store
