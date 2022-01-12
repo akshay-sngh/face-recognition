@@ -2,8 +2,8 @@
 
 ## About the app
 
-- **I made this app as a part of my internship in 2017, it was my first real development assignment and took aroudn a week to compelete.
-- **Apologies in advance for dumping everything in the single master branch, didn't know what I was doing.
+- **I made this app as a part of my internship in 2017, it was my first real development assignment and took aroudn a week to compelete.**
+- **Apologies in advance for dumping everything in the single master branch, didn't know what I was doing.**
 
 Opencv face recognition using python by loading data from sqlite3 database and controlling the application using PyQt4 GUI.
 
