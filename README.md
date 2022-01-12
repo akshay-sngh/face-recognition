@@ -1,6 +1,7 @@
 # face-recognition
 
 ## About the app
+**I made this app as a part of my internship in 2017, it was my first real development assignment and took aroudn a week to compelete.**
 Opencv face recognition using python by loading data from sqlite3 database and controlling the application using PyQt4 GUI.
 
 change the database to link your new faces in it
